@@ -81,5 +81,5 @@ Created an interactive dashboard to present customer shopping insights and trend
 ## Author
 **Rohan Bharati**
 
-## License
-This project is licensed under the MIT License.
+
+
